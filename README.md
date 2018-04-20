@@ -26,7 +26,11 @@ I am extending and adjusting my previous music visualization piece. I hope to un
 
 ### Drawing or Sketch of Extended Piece
 
-![Sketch of Extended Piece](extended_piece.png)
+Potential Flow Options:
+
+Scene Managed: ![scenemanaged](/images/scenemanaged.png)
+
+Open Click: ![openclick](/images/openclick.png)
 
 ### Technical Details
 //   
@@ -46,4 +50,4 @@ Overview of the technical aspects of my project:
 
 
 
-Link to your project's full code in this repository:  [https://github.com/duke-interactive-graphics/face-osc](https://github.com/duke-interactive-graphics/face-osc)
+Link to your project's full code in this repository:  https://github.com/nikhilvdk/p5js_final
