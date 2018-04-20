@@ -18,9 +18,9 @@ In the space, I see it being displayed openly for each separate user to interact
 
 ### Extension 
 
-Do you intend to extend a piece that you've created throughout the semester? What elements are you adding or subtracting from the previous piece? How do these extensions/subtractions further develop the conceptual and interactive elements of your work?
+I am extending and adjusting my previous music visualization piece - please see [MusicVis GitHub Repo]( https://github.com/nikhilvdk/MusicVis) for detailed README, and run [here](https://nikhilvdk.github.io/MusicVis/)
 
-I am extending and adjusting my previous music visualization piece. I hope to unify/clean up the design scheme. I hope to add a scene manager introduction and possible guide through overarching takeaways/themes I have gauged from working with the data. I also hope to add new visualization sections that involve popularity stats, and possibly others that may involve speaking words or lyrics into the sketch or typing. I hope that this will help provide more cohesion and guidance to the concept, more fluidly allowing useful information to be obtained through varying methods of interaction. I may also investigate if there are any extraneous features or points of interaction that do not add or more confuse than clarify aspects of the data that can be removed.
+I hope to unify/clean up the design scheme. I hope to add a scene manager introduction and possible guide through overarching takeaways/themes I have gauged from working with the data. I also hope to add new visualization sections that involve popularity stats, and possibly others that may involve speaking words or lyrics into the sketch or typing. I hope that this will help provide more cohesion and guidance to the concept, more fluidly allowing useful information to be obtained through varying methods of interaction. I may also investigate if there are any extraneous features or points of interaction that do not add or more confuse than clarify aspects of the data that can be removed.
 
 ![emotionalpolarity](/images/emotionalpolarity.png)![subjectivity](/images/subjectivity.png)
 
