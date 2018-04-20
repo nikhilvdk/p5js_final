@@ -22,7 +22,7 @@ Do you intend to extend a piece that you've created throughout the semester? Wha
 
 I am extending and adjusting my previous music visualization piece. I hope to unify/clean up the design scheme. I hope to add a scene manager introduction and possible guide through overarching takeaways/themes I have gauged from working with the data. I also hope to add new visualization sections that involve popularity stats, and possibly others that may involve speaking words or lyrics into the sketch or typing. I hope that this will help provide more cohesion and guidance to the concept, more fluidly allowing useful information to be obtained through varying methods of interaction. I may also investigate if there are any extraneous features or points of interaction that do not add or more confuse than clarify aspects of the data that can be removed.
 
-![emotionalpolarity](/Users/NikhilVanderklaauw/Desktop/Senior/IntGraphics/p5_finalproj/images/emotionalpolarity.png)![subjectivity](/Users/NikhilVanderklaauw/Desktop/Senior/IntGraphics/p5_finalproj/images/subjectivity.png)
+![emotionalpolarity](/images/emotionalpolarity.png)![subjectivity](/images/subjectivity.png)
 
 ### Drawing or Sketch of Extended Piece
 
